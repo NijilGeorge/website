@@ -1,4 +1,4 @@
-downing.io
+nijilgeorge.io
 ================================================================================
 
 Source code for my personal website. MIT Licensed. Contains a copy of my resume, 
